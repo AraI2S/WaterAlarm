@@ -1,0 +1,26 @@
+﻿{
+  "schemaVersion": 1,
+  "times": [
+    "10:20",
+    "11:10",
+    "14:30",
+    "15:40",
+    "16:30",
+    "17:20",
+    "18:10"
+  ],
+  "message": "起来喝水",
+  "hint": "点击关闭",
+  "durationSeconds": 20,
+  "pollSeconds": 5,
+  "appearance": {
+    "width": 400,
+    "height": 100,
+    "background": "E7F3E8",
+    "foreground": "2F5D3A",
+    "hintColor": "6C7F70",
+    "font": "Microsoft YaHei UI",
+    "mainFontPt": 23,
+    "hintFontPt": 9
+  }
+}
